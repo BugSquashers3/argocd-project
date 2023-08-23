@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: bugsquashers/argo-proj-image:replaceImageTag
+        image: bugsquashers/argo-proj-image:27
         ports:
         - containerPort: 8080
